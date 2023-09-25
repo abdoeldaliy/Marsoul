@@ -1,9 +1,4 @@
-//
-//  MarsoulApp.swift
-//  Marsoul
-//
-//  Created by Mac on 22/09/2023.
-//
+
 
 import SwiftUI
 

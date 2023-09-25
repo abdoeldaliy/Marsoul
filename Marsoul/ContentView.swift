@@ -6,6 +6,7 @@ struct ContentView: View {
         VStack {
         
             Text("Hello, world!")
+            Text("Hi")
         }
         .padding()
     }
